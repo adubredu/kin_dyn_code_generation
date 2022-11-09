@@ -4,7 +4,7 @@ Uses Pinocchio for kinematics and dynamics solutions and CasADi for code generat
 
 ## Installation
 1. Compile and install the [casadi_kin_dyn](https://github.com/ADVRHumanoids/casadi_kin_dyn) package.
-2. Clone this repo
+2. Clone this repo.
 
 ## Usage
 1. In the [pinocchio_kinematics.py](pinocchio_kinematics.py) file, set the 
